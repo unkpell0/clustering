@@ -1,0 +1,23 @@
+status_id	= ID
+
+status_type	= Video/Photo/Link
+
+status_published	= Waktu dipublishnya kapan
+
+num_reactions	        = Jumlah Reaksi dari unggahan 
+
+num_comments	        = Jumlah comments
+
+num_shares	        = Jumlah yang nge-share
+
+num_likes	        = Jumlah yang nge-likes (Emot jempol)
+
+num_loves	        = Jumlah yang menyukai (Emot Love/Hati)
+
+num_wows	        = Jumlah yang merespon wow (Emot ekspresi wow kaget)
+
+num_hahas	        = Jumlah yang merespon tertawa (Emot ekspresi tertawa/tersenyum)
+
+num_sads	        = Jumlah yang merespon Sedih (Emot ekspresi Sedih/menangis)
+
+num_angrys              = Jumlah yang merespon Marah (Emot ekspresi marah)
